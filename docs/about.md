@@ -3,23 +3,12 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+I am a graduate student at North Carolina State University, pursuing a Master's degree in Computer Science, expecting to graduate in December 2020. The wonders technology can perform fascinates me, and its infinite potential inspired me to choose Computer Science. With the help of a Bachelor's degree in Engineering, an internship, multiple projects in different domains and courses in my Master's program, I feel my interests and skill-set are in tandem with the requirements of the Software Engineering and Data Science domain of the tech industry. I like to use my passion towards Computer Science as a way to feed my desire of giving back to society and hence I am looking for an opportunity to utilize my skills while learning new things everyday. 
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Masters Student at North Carolina State University
 
 ## Recognition
 
